@@ -14,5 +14,6 @@ Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-t
 😄 Fun fact: Codeing(💻), Traveling(🌍).
 👨‍💻 Hire me for Full Stack Development jobs: Link to my Full Stack Development Specialization.
 👨‍💻 Hire me for Back-End Development jobs: Link to my UpWork Back-End Development Specialization.
-                                                          🎯 Contribution Activity
+🎯 Contribution Activity
+<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
