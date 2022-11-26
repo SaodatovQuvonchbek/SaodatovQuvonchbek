@@ -1,4 +1,15 @@
-<h1 align="center">Hi 👋, I'm Saodatov Kuvonchbek</h1>
+<div>
+    <div align="center">
+<img width="100%" height = "100%" src="https://raw.githubusercontent.com/Aditya664/Aditya664/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313434342f312a5a352d6c576b797a635242356168676d3971797876672e706e67.png" alt="cover" />
+</div>
+    <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Kuvonchbek+%F0%9F%91%8B;Computer+Science+Cadet;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+    </div>
+    <div align=center>
+        <a href="https://www.linkedin.com/in/quvonch-saodatov-780442239/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="[https://www.upwork.com/freelancers/~0121ca7f3563e57c0b](https://dev.to/saodatovquvonchbek)"><img src="[https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwor](https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png)k" alt="Dev.to" /></a>
+        <a href="https://t.me/KS_coders"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+    </div>
 <h3 align="center">.NET Windows form,Backent developer in PHP(Laravel) and Asp.Net Technologies developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saodatovquvonchbek&label=Profile%20views&color=0e75b6&style=flat" alt="saodatovquvonchbek" /> </p>
