@@ -7,7 +7,7 @@
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/quvonch-saodatov-780442239/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="[https://www.upwork.com/freelancers/~0121ca7f3563e57c0b](https://dev.to/saodatovquvonchbek)"><img src="[https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwor](https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png)k" alt="Dev.to" /></a>
+        <a href="[https://www.upwork.com/freelancers/~0121ca7f3563e57c0b](https://dev.to/saodatovquvonchbek)"><img src="[https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwor](https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png)k" alt="" /></a>
         <a href="https://t.me/KS_coders"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
     </div>
 <h3 align="center">.NET Windows form,Backent developer in PHP(Laravel) and Asp.Net Technologies developer</h3>
