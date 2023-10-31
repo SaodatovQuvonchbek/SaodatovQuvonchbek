@@ -10,7 +10,7 @@
         <a href="[https://www.upwork.com/freelancers/~0121ca7f3563e57c0b](https://dev.to/saodatovquvonchbek)"><img src="[https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwor](https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png)k" alt="" /></a>
         <a href="https://t.me/KS_coders"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
     </div>
-<h3 align="center">.NET Windows form,Backent developer , Asp.Net Technologies developer</h3>
+<h3 align="center">.NET Desktop,Backend developer , Asp.Net Technologies developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saodatovquvonchbek&label=Profile%20views&color=0e75b6&style=flat" alt="saodatovquvonchbek" /> </p>
 
